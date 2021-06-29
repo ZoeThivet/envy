@@ -1,12 +1,14 @@
 # Project-Envy
 
-Hello everyone,
+## Initial commiters
 
-#Introduction
+Thomas Trinh Dung & Florian Jean-Baptiste Dit Doudoute
+
+## Introduction
 
 For the purpose of an university project we have created a chrome extension which allows an user to know in which environment he is located by saving an indication message on a web page
 
-#Technology
+## Technology
 
 In this project we use :
 -Javascript
@@ -14,13 +16,13 @@ In this project we use :
 on Visual Studio Code version 1.56.2.
 
 
-#How to use extension
+## How to use extension
 
 To launch the project, you can instal it manually if you have acces to the folder of this project or instal it from the Chrome store.
 
 Follow the instructions below:
 
-#Local Installation
+## Local Installation
 
 1.On your computer, open Chrome.
 
@@ -30,7 +32,7 @@ Follow the instructions below:
 
 4.Cick on load unpackaged extension and select the unzipped folder of this project.
 
-#Installation Store
+## Installation Store
 
 1.Open the Chrome Web Store.
 
@@ -39,6 +41,3 @@ Follow the instructions below:
 3.Click Add to Chrome.
 
 4.Some extensions tell you if they need specific permissions or information. To approve, click Add extension.
-
-
-   
