@@ -20,7 +20,7 @@ To launch the project, you can install it manually if you have access to the fol
 
 Follow the instructions below:
 
-## Local Installation
+### Local Installation
 
 1. On your computer, open Chrome.
 
@@ -30,7 +30,7 @@ Follow the instructions below:
 
 4. Load unpackaged extension; select the unzipped folder of this project.
 
-## Store installation
+### Store installation
 
 1. Open the Chrome Web Store.
 

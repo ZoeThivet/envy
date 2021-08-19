@@ -31,7 +31,11 @@ if (typeof textQualification !== "undefined") {
 }
 
 //Créer une variable dev dans le localStorage avec comme valeur : "developpement"
+<<<<<<< HEAD
 localStorage.setItem('dev', 'developpement');
+=======
+localStorage.setItem('dev' , 'developpement');
+>>>>>>> 368c144129515bb0a0fe303dbb63fe1c8908592c
 var developpement = window.localStorage.getItem("dev");
 
 //Supprime les variables prod et qualif du localStorage pour que a la prochaine connexion sur la page, seulement la div textDeveloppement soit créer
