@@ -10,8 +10,8 @@ Thomas Trinh Dung & Florian Jean-Baptiste Dit Doudoute
 ## Technology
 
 In this project we use:
--Javascript
--HTML/CSS
+- Javascript
+- HTML/CSS
 
 
 ## How to use the extension
