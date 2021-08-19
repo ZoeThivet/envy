@@ -1,0 +1,48 @@
+button {
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin:4px 2px;
+}
+
+button:active {
+  box-shadow: 2 2px #666;
+  transform: translateY(4px);
+}
+
+.buttonTexteProduction {
+  background-color: orange;
+}
+.buttonTexteProduction:hover {background-color: #d17811}
+
+.buttonTexteDeveloppement {
+  background-color:green;
+}
+
+.buttonTexteDeveloppement:hover {background-color: #084610}
+
+.buttonTexteQualification {
+  background-color: darkblue;
+}
+
+.buttonTexteQualification:hover {background-color: #030258}
+
+.buttonTexteStandard {
+  font-size: 12px;
+  border-color: grey;
+  background-color: white;
+  color: grey;
+}
+
+.buttonTexteStandard:hover {background-color: #859188af}
+
+.classBandeauEnvironnement{
+  text-align: center;
+  line-height:50px;
+  font-weight: bold;
+  text-decoration: none;
+}
